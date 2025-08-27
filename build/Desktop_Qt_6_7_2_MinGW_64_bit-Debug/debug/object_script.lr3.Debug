@@ -1,0 +1,14 @@
+debug/admininterface.o
+debug/coachinterface.o
+debug/databasemanager.o
+debug/directorsinterface.o
+debug/enterwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/studentinterface.o
+debug/moc_admininterface.o
+debug/moc_coachinterface.o
+debug/moc_directorsinterface.o
+debug/moc_enterwindow.o
+debug/moc_mainwindow.o
+debug/moc_studentinterface.o

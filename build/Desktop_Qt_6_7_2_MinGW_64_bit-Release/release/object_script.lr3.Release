@@ -1,0 +1,14 @@
+release/admininterface.o
+release/coachinterface.o
+release/databasemanager.o
+release/directorsinterface.o
+release/enterwindow.o
+release/main.o
+release/mainwindow.o
+release/studentinterface.o
+release/moc_admininterface.o
+release/moc_coachinterface.o
+release/moc_directorsinterface.o
+release/moc_enterwindow.o
+release/moc_mainwindow.o
+release/moc_studentinterface.o
